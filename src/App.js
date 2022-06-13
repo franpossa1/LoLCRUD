@@ -21,8 +21,7 @@ function App() {
         )
       ;
   }
-// no entiendo xq al buscar la API no me hace la call correspondiente, no se como manipular los datos de tipo obj en la api
-// ESTO y ver lo de material UI y ya tnego un 40% listo, gracias por la motivacion dios jaja
+
 
   React.useEffect(() => {
     fetchHook();
